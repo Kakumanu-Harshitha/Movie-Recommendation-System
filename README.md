@@ -41,4 +41,4 @@ Cosine Similarity
 # Dataset Reference
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 # Owner
-[Kakumanu-Harshitha][https://github.com/Kakumanu-Harshitha]
+[Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
