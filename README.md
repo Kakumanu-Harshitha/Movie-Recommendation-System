@@ -13,30 +13,32 @@ A Movie Recommendation System is an application of machine learning that suggest
 
 # Applications:
 --> Netflix, Amazon Prime, and Disney+ use advanced recommendation systems to suggest movies and TV shows.
+
 --> YouTube and TikTok use similar systems for video recommendations.
+
 --> E-commerce platforms (Amazon, Flipkart) recommend movies based on user behavior.
 
 # Results
-**Avatar:**
-Aliens vs Predator: Requiem
-Aliens
-Falcon Rising
-Independence Day
+**Avatar:** 
+Aliens vs Predator,
+Aliens,
+Falcon Rising,
+Independence Day,
 Titan A.E.
 
-**Harry Potter and the Half-Blood Prince:**
-Harry Potter and the Order of the Phoenix
-Harry Potter and the Goblet of Fire
-Harry Potter and the Chamber of Secrets
-Harry Potter and the Philosopher's Stone
-Harry Potter and the Prisoner of Azkaban
+**Harry Potter and the Half-Blood Prince:** 
+Harry Potter and the Order of the Phoenix,
+Harry Potter and the Goblet of Fire,
+Harry Potter and the Chamber of Secrets,
+Harry Potter and the Philosopher's Stone,
+Harry Potter and the Prisoner of Azkaban.
 
-**The Scarlet Letter:**
-Kabhi Alvida Naa Kehna
-For Your Consideration
-Redemption Road
-Monsoon Wedding
-Veer-Zaara
+**The Scarlet Letter:** 
+Kabhi Alvida Naa Kehna,
+For Your Consideration,
+Redemption Road,
+Monsoon Wedding,
+Veer-Zaara.
 
 # Requirements:
 Python
