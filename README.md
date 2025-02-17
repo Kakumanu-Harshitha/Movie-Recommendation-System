@@ -3,12 +3,19 @@ A Movie Recommendation System is an application of machine learning that suggest
 
 # Steps to build the model
 1.Import Libraries
+
 2.Import Dataset
+
 3.Data Preprocessing
+
 4.Stemming
+
 5.Vectorization
+
 6.Check Similarity
+
 7.Build Recommendation System
+
 8.Recommendations
 
 # Applications:
